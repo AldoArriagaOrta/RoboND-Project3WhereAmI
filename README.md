@@ -1,8 +1,6 @@
 # RoboND-Project3WhereAmI
 
-The "Go Where Am I!" project's purpose is to put into pratice the lessons learned as part of the RoboND ROS Localization module according to the project [rubric](https://review.udacity.com/#!/rubrics/2351/view)
-
-
+The "Where Am I!" project's purpose is to put into pratice the lessons learned as part of the RoboND ROS Localization module according to the project [rubric](https://review.udacity.com/#!/rubrics/2351/view)
 
 [//]: # (Image References)
 
@@ -10,7 +8,7 @@ The "Go Where Am I!" project's purpose is to put into pratice the lessons learne
 
 ### Directory Structure
 ```
-    .Project2                          # Go Chase It Project
+    .Project3                          # Go Chase It Project
     ├── my_robot                       # my_robot package                   
     │   ├── launch                     # launch folder for launch files   
     │   │   ├── robot_description.launch
