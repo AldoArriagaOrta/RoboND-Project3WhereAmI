@@ -20,7 +20,11 @@
     <param name="max_particles" value="500"/>
     <param name="update_min_d" value="0.1"/>
     <param name="update_min_a" value="0.2618"/>
-    
+    <param name="odom_alpha1" value="0"/>
+    <param name="odom_alpha2" value="0"/>
+    <param name="odom_alpha3" value="0"/>
+    <param name="odom_alpha4" value="0"/>
+    <param name="laser_max_beams" value="50"/>
   </node>
 
   <!-- Move Base -->
